@@ -1,0 +1,23 @@
+{
+  "name": "jquery-masonry-autofill",
+  "description": "Plugin enables Masonry to fill-up empty space at the end of the row if amount of items is uneven.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "jquery",
+    "masonry"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "masonry": "~3.3.2"
+  }
+}
