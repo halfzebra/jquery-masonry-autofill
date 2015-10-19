@@ -2,6 +2,8 @@
 
 A jQuery plugin for [Masonry](http://masonry.desandro.com/).
 
+Ispired by [Bootstrap + Masonry add blank divs when grid have empty spaces at the bottom](http://stackoverflow.com/questions/33141840/bootstrap-masonry-add-blank-divs-when-grid-have-empty-spaces-at-the-bottom)
+
 Plugin enables Masonry to fill-up empty space at the end of the row if amount of items is uneven.
 
 Please see the demo on [JSFiddle](http://jsfiddle.net/7gzrg8wf/).
